@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895249367436",
+    "firebase_url": "https://horticulture-8a2aa.firebaseio.com",
+    "project_id": "horticulture-8a2aa",
+    "storage_bucket": "horticulture-8a2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895249367436:android:f7f493087d8d7403",
+        "android_client_info": {
+          "package_name": "tt.example.HorticulturalFarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895249367436-gojsr1i5k9io2ovqvppf1fh9jfsbncja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tt.example.HorticulturalFarming",
+            "certificate_hash": "508aee2983d428052d5ef0a647b45485ca69be0e"
+          }
+        },
+        {
+          "client_id": "895249367436-efk7u9ou2ps0d2lki1vif9ep5k7mt6f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVfl0QRtADaaAX9UDEz8a8IQGHuM4nx2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895249367436-efk7u9ou2ps0d2lki1vif9ep5k7mt6f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

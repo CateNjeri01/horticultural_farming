@@ -1,0 +1,260 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="horticultural_logo">horticultural farming</string>
+    <string name="crop_details">Crop_details</string>
+    <string name="weather_updates">Weather Updates</string>
+    <string name="discussion_forum">Discussion Forum</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="image_analysis">Image Analysis</string>
+    <string name="about_us">About Us</string>
+    <string name="appname">Horticultural Farming</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="txt_sign_up">Sign up</string>
+    <string name="log_in_btn">LOG IN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email...</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="image_button">Image Button</string>
+    <string name="dummy_email">emailaddress@gmail.com</string>
+    <string name="enter_phone_number">Enter Phone Number...</string>
+    <string name="submit">Submit</string>
+    <string name="email_address">Email Address</string>
+    <string name="all_posts">All posts</string>
+    <string name="market_posts">Market posts</string>
+    <string name="trending_posts">Trending Posts</string>
+    <string name="go_back_button">GO BACK BUTTON</string>
+    <string name="new_post">New post</string>
+    <string name="post_image">Post Image</string>
+    <string name="add_caption">Add caption</string>
+    <string name="add_post">Add_post</string>
+    <string name="comments_appear_here">comments appear here....</string>
+    <string name="date_of_the_post">Date of the post</string>
+    <string name="usename">Username</string>
+    <string name="_0_likes">0 likes</string>
+    <string name="_0_comments">0 comments</string>
+    <string name="apples">Apples</string>
+    <string name="water_melon">Water Melon</string>
+    <string name="blue_berries">Blue Berries</string>
+    <string name="grapes">Grapes</string>
+    <string name="pineapples">PineApples</string>
+    <string name="straw_berry">Straw Berry</string>
+    <string name="comments">comments</string>
+    <string name="brocolli">Brocolli</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="onions">Onions</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="pest_and_image_identification">Pest and Image Identification</string>
+    <string name="roses">Roses</string>
+    <string name="sun_flower">Sun Flower</string>
+    <string name="tuberous_benogias">Tuberous Benogias</string>
+    <string name="about_app"><b>About Application</b>\n\n
+The horticultural implex farming application features tools to identify pests, managing your crops and getting weather updates of that particular location.\n
+It can help you make decisions that will improve the health of your crops and improve your yields and connect with experts who can assist you with the better solutions about your crops. \n
+The horticultural implex is designed and developed by Catherine Maina and every effort was made to help farmers on how to grow and take care of their horticultural crops. \n
+<b>Modules inside the HORTICULTURAL implex</b>\n
+Crop details- this module covers all information about growing horticultural crops which include flowers, vegetables and fruits the module gives details on when to plant, weeding, applying fertilizers, harvesting and pests and diseases. \n
+Discussion Forum – this module provides a forum where farmers can post anything and other farmers can comment about the post. It is divided into three parts which are market posts, all posts and trending posts.\n
+Contact us – this module provides a real time chatting application where farmers and experts can chat with each other as well as a chat bot which can answer questions to help farmers make decisions.\n
+Plant and pest identification – this module farmers upload an image and identify the crop and give the possible pest that have affected your crops. \n
+
+<b>For more information</b>\n\n
+cateiannjeri@gmail.com
+</string>
+
+    <string name="privacy_policy"><b>Privacy Policy</b>\n
+Catherine Maina built the Horticultural farming app as an Open Source app. This SERVICE is provided by Catherine Maina at no cost and is intended for use as is.\n
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.\n
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.\n
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Horticultural farming unless otherwise defined in this Privacy Policy.\n
+        <b>Information Collection and Use</b>
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.\n
+The app does use third party services that may collect information used to identify you.\n
+Link to privacy policy of third party service providers used by the app\n
+•	Google Play Services\n
+        <b>Log Data</b>\n
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.\n
+<b>Cookies</b>\n
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your devices internal memory.\n
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.\n
+        <b>Service Providers</b> \n
+I may employ third-party companies and individuals due to the following reasons:\n
+•	To facilitate our Service;\n
+•	To provide the Service on our behalf;\n
+•	To perform Service-related services; or\n
+•	To assist us in analyzing how our Service is used.\n
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.\n
+        <b>Security</b> \n
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.\n
+<b>Links to Other Sites</b>\n
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n
+<b>Children’s Privacy</b>\n
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.\n
+<b>Changes to This Privacy Policy</b>\n
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.\n
+<b>Contact Us</b>\n
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Cateiannjeri@gmail.com.
+
+</string>
+    <string name="apples_facts"><b>Quick facts</b> \n
+        * Apple trees need at least 8 hours of sun per day during the growing season. \n
+        * Two varieties are required for successful pollination; one can be a crabapple.\n
+       *  Dwarf apple trees will start bearing fruit 2 to 3 years after planting. \n
+        * Standard size trees can take up to 8 years to bear fruit.\n
+        * Some varieties are more susceptible to insect and disease damage than others.\n
+        * Prune annually to keep apple trees healthy and productive.</string>
+
+    <string name="apple_planting"><b>PREPARING FOR PLANTING</b>\n
+    <b>FIND A SUNNY LOCATION</b>\n
+    Apple trees require full sun, so choose a spot where the sun shines directly on the tree for at least 8 hours each day.\n
+    <b>TEST YOUR SOIL</b>\n
+    When it comes to soil, apple trees can grow in most soils as long as there is no standing water and the pH of the soil is between 6 and 7.\n
+    •	Have your soil tested to determine pH\n
+    •	pH of the soil should be between 6 and 7 \n
+    •	Apple trees can grow in most soils as long as there is no standing water \n
+    •	Avoid planting in areas where water stands for several hours after a rain \n
+    If you are unsure about your soil pH, conduct a soil test to determine soil conditions before planting and amend the soil as suggested by the results. \n
+    <b>SPACING</b>\n
+    A good rule of thumb for a garden fruit tree is to provide at least as much horizontal space as the anticipated height of the tree. So, if your tree will grow up to 8 feet high, make sure there are 8 feet between it and the next tree.
+    Planting trees too close together will increase shading and reduce the number and quality of the fruit coming from your tree.\n
+    <b>PLANTING</b>\n
+    <u>Dig a hole</u>\n
+    •	Dig a hole for each tree that is no deeper than the root ball, and about twice as wide.\n
+    •	When you dig the soil out of the hole, pile it on a tarp or piece of plywood so it is easier to get it back in the hole.\n
+    •	You may mix in up to one-third by volume compost, peat moss or other organic matter.\n
+    •	Most of what goes back in the planting hole should be the soil you took out of the hole.\n
+    •	There is no need to add fertilizer to the hole.\n
+    <u>Look at the roots</u>\n
+    •	If you purchased bare root trees, closely examine the root system and remove encircling roots or J-shaped roots that could eventually strangle the trunk.\n
+    •	For trees in containers, inspect the root systems for encircling woody roots.\n
+    •	If woody roots are wrapped around in a circle, straighten them or make several cuts through the root ball prior to planting.\n
+    •	This helps the plant produce a stronger root system and prevents the formation of girdling roots that eventually weaken the tree.\n
+    <u>Put the tree in the hole</u>\n
+    •	Position each tree so that the graft union is about 4 inches above the soil line. The graft union is a swelling where the variety meets the rootstock.\n
+    o	If the graft union is placed close to or below the soil line, the variety (scion) will root, causing trees to grow to full size.\n
+    •	Spread the roots of bare root trees, making sure none are bent.\n
+    •	Have someone help you get the tree standing up straight.\n
+    •	Begin adding the soil, tamping to remove air pockets as you go.\n
+    •	After the hole is filled, tamp gently and water thoroughly to remove remaining air pockets.\n
+    <b>WATERING</b> \n
+    Throughout the life of the tree, you should water its root zone thoroughly during the growing season whenever there is a dry spell. Ideally, the tree should receive one inch of water from rainfall or irrigation every week from May through October.\n
+    <b>SUPPORT</b> \n
+    It is a good idea to stake the tree for the first few years. Either a wooden or metal stake will work. A stake should be about the height of the tree after being pounded two feet into the ground. Use a wide piece non-abrasive material to fasten the tree to the stake. Avoid narrow fastenings such as wire or twine, as they may cut into the bark.
+    Use tree guards to protect the trunk of your tree \n
+    Planting is a good time to install a tree guard.These are usually made of plastic and are available at most nurseries and online.\n
+    Tree guards protect your tree from winter injury and bark chewing by small mammals, such as voles (aka meadow mice) and rabbits.\n
+    Guards also reflect sunlight from the trunk, which helps prevent the trunk from heating up on a cold, sunny winter day.\n
+    •	If the bark temperature gets above freezing, water in the conductive tissue under the bark becomes liquid and begins to flow through the cells.\n
+    •	When the sun goes down or behind a cloud, the liquid water suddenly freezes, damaging the cells and sometimes killing all the tissue on one side of the trunk. This is called sunscald.\n
+    Once the tree has rough and flaky mature bark, neither winter sun nor chewing animals can harm it, so tree guards will not be necessary. For the first years of its life, however, it is important to protect the trunk of your fruit tree.\n
+    <b>FERTILIZERS AND MULCH</b> \n
+    Once established, an apple tree planted on a favorable site, in properly prepared soil, should thrive with minimal fertilization.\n
+    •	Nitrogen is normally the only mineral nutrient that needs to be added on an annual basis and can be added using compost.\n
+    •	The branches of non-bearing young apple trees will normally grow 12 to 18 inches per year while the branches of bearing apple trees will grow 8 to 12 inches in a season.\n
+    •	If growth exceeds these rates, apply no compost at all, as too much growth can keep fruit from developing, and lush growth is more susceptible to fireblight infection.\n
+    <b>WEEDING</b>\n
+    •	For the first three to five years, grass and weeds should be removed from about a 3-foot radius around the tree.\n
+    •	Grasses can deplete soil moisture rapidly and will reduce tree growth.\n
+    •	Applying a few inches of mulch around the base of the tree will help prevent weeds.\n
+    •	Keep the mulch a few inches away from the trunk to prevent rodent damage and fungal growth.\n
+    <b>THINNING FRUITS</b> \n
+    Leave 1 or 2 fruits per cluster when thinning apples.\n
+    An apple tree will provide an abundant crop if conditions are favorable when the tree is in bloom.\n
+    Some of the fruit will naturally drop off the tree in mid June, but the tree may be left with more fruit than it can support.\n
+    Too heavy crops can cause biennial bearing, when a heavy crop of small, green apples is followed by little or no crop the next year.\n
+    •	Thinning fruit off the trees by hand will minimize biennial bearing and promote larger, higher quality fruit.\n
+    •	Leave one or two fruit per flower cluster or, for the best fruit quality, about 4 to 6 inches between fruit on any branch.\n
+    •	Thin when fruit is about marble size, in late June or early July, after some of the fruit has already dropped naturally.\n
+    •	Thinning improves the quality of the apples you will harvest in the fall.\n
+    •	You will be more likely to get fruit every year.\n
+    \n
+    <b>HARVESTING AND STORING FRUITS </b>\n
+    <u>Know when to pick</u>\n
+    The redness of an apple is not always a good indicator of its ripeness.\n
+    <u>To tell if an apple is ripe</u>\n
+    •	Look for a change in the background color, the part of the skin not covered with red color.\n
+    •	When the background color (also called ground color) begins to change from green to a greenish yellow color, the apple is starting to ripen.\n
+    •	Other than Honeygold, all other apples we recommend should have a green-turning-to-yellow background color when fully ripened.\n
+    •	Pick a few apples that seem ripe and taste them to be sure they are at the ripeness you prefer.\n
+    •	As apples ripen, starch in the flesh is converted to sugar. An unripe apple will be starchy and leave a sticky film on your teeth.\n
+    •	A ripe apple may still be tart, but it should have developed aromatic flavors.\n
+    •	You may need to pick the fruit from the same tree several times over the course of a week or two in order to get all the fruit at the right stage of maturity.\n
+    <u>How to pick an apple</u>\n
+    •	Gently take the fruit in the palm of your hand, then lift and twist in a single motion.\n
+    •	Or use one hand to hold the short, thick fruiting spur that bore the apple, and the other hand to lift and twist the fruit.\n
+    •	Avoid pulling or yanking the fruit as you could pull off the spur, taking with it next year flower buds.\n
+    <b>STORING APPLES</b> \n
+    Apples last the longest at standard refrigerator temperatures, about 33°F to 38°F, with about 85 percent humidity. The best place to store apples at home is usually the refrigerator.\n
+    •	Warmer temperatures always shorten the storage life of apples.\n
+    •	Apples stored near 33°F may last as much as 10 times longer than apples stored at room temperature.\n
+    •	High humidity helps reduce the shriveling of apples in storage.\n
+    •	If the storage environment is low in humidity, as most refrigerators are, the fruit should be stored in a perforated plastic bag or a loosely covered container.\n
+    •	Although apples are lovely displayed in a fruit bowl, such conditions will dramatically reduce their usable life.\n
+
+    <b>GENERAL PRUNING GUIDELINES</b> \n
+    •	Remove diseased, broken, or dead branches\n
+    •	Remove any downward-growing branches\n
+    •	If two limbs are crossed, entangled, or otherwise competing, remove one of them completely at its base \n
+    •	Remove any limbs along the trunk that are bigger in diameter than the trunk\n
+    •	Remove suckers coming up from the roots or low on the trunk\n
+    •	Remove vigorous vertical branches, called watersprouts\n
+    •	Make pruning cuts close to the branch collar at the base of the limb\n
+    o	For larger limbs, start the cut from the underside of the limb to avoid tearing the bark\n
+    •	Remove large limbs first, starting with the top of the tree\n
+    •	"Thinning" cuts remove entire branches at the branch collar and are usually the recommended type of cut\n
+    •	"Heading" cuts remove only part of a branch and encourage vegetation growth below the cut and are not as common\n
+
+    Fruit trees should be pruned every year in late winter/early spring, preferably after the coldest weather is past, and before growth begins. Prune minimally, especially with young trees, as excessive pruning will delay or reduce fruiting and create too much leafy growth.
+    Once the first set of scaffold branches has been selected, select a second set above it. Scaffold branches should be spaced about 12 inches apart. Always keep the conical form in mind when pruning.
+    Many apple trees are pruned and trained to allow a central main stem, or leader, to be the foundation of the tree off of which side branches, or scaffolds grow. The tree ends up with a conical or pyramid form. This is called central leader pruning. This is a simple pruning method, and it makes for a compact, balanced, easily managed tree, with fruit that has maximum access to sunlight and air circulation.\n
+
+    <b>MANAGING PESTS AND DISEASES</b> \n
+    <u>Insects and other creatures</u>\n
+    There are several insect pests that commonly affect apples grown in kenya. You might not see these every year, but knowing how to recognize them will help you prevent damage.\n
+    Bag apples when they are small.\n
+    •	Insect damage is often done before you actually see the insects.\n
+    •	Once established, they are difficult to control during that year.\n
+    •	If your apples have suffered insect damage in the past, chances are it will happen again.\n
+    •	The surest way to reduce infestation is to cover the fruit with a plastic bag when it is about the size of a quarter.\n
+    •	Cover the fruit with a bag and cut a small hole in a corner for condensation to drain to control apple scab and apple maggot.\n
+
+    <b>APPLE MAGGOT </b>\n
+    This can be the most destructive of all the insects that attack apples.\n
+    •	The adult flies are slightly smaller than houseflies, emerging from the soil in early July.\n
+    •	Female flies lay eggs under the skins of apples.\n
+    •	After the eggs hatch, the maggots bore into the fruit.\n
+    •	In heavy infestations, many larvae can be found in a single fruit, and can be noticed by the brown tracking seen in the fruit.\n
+    •	Picking up and destroying fallen fruit once a week from early August through harvest reduces the potential for maggot infestations the following year.\n
+    •	Covering fruit reduces infestation by this insect.\n
+    Lures and traps can be helpful in detecting the presence of apple maggot flies and reducing the number of fruit they damage. These should be placed in the trees before the end of June to catch flies as they first attempt to lay eggs.\n
+
+    <b>CODLING MOTH</b> \n
+    •	The larva of this moth is a worm found commonly in homegrown apples.\n
+    •	Adult moths deposit eggs on leaves and fruit around the time the petals are falling off the flowers.\n
+    •	The codling moth larva is up to 1/2 inch long and has a pinkish body with a brownish head.\n
+    •	The larvae tunnel towards the apple core and feed on the seeds before exiting the fruit.\n
+    •	Crumbly golden-brown excrement is sometimes found at the hole where the larva exited the apple.\n
+    •	Good sanitation helps prevent codling moth infestations.\n
+    •	Remove and destroy any fallen apples throughout the season and after harvest.\n
+
+    </string>
+
+</resources>

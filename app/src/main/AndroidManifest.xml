@@ -15,7 +15,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ApplesActivity"></activity>
+        <activity android:name=".WaterMelonActivity"></activity>
+        <activity android:name=".ApplesActivity" />
         <activity
             android:name=".AboutActivity"
             android:theme="@style/AppTheme.NoActionBar" />

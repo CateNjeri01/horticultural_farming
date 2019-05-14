@@ -15,7 +15,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".WaterMelonActivity"></activity>
+        <activity android:name=".StrawBerryActivity"></activity>
+        <activity
+            android:name=".WaterMelonActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".ApplesActivity" />
         <activity
             android:name=".AboutActivity"

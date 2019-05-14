@@ -256,5 +256,19 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
     •	Remove and destroy any fallen apples throughout the season and after harvest.\n
 
     </string>
+    <string name="watermelonfacts">FACTS ABOUT WATERMELON \n
+      -  Ideal soil pH: 5.5 - 6.5 \n
+       -  80 to 90 days for baby bush varieties, and 90 to 100 days or more for the larger varieties.\n
+       -  For extra big watermelons, cover the vines with garden soil. This will promote secondary root growth where leaf stems meet the vine.\n
+        - Application of nitrogenous fertilisers is based on soil type. Soils with high organic matter require 80kg N/ha, while light soils require 140kg N/ha. </string>
+    <string name="facts_about_strawberry">FACTS ABOUT STRAWBERRY
+        •	Strawberries need full sun to produce maximum fruit.
+        •	Space plants 12 to 18 inches apart.
+        •	Strawberries are self-fertile, but require bees for pollination.
+        •	Remove some of the runners throughout the season or your strawberry plants will take over your yard.
+        •	After removing flowers for a few weeks after planting, you can pick fruit later that summer.
+        •	One June-bearing plant can produce up to 120 new daughter plants in one season.
+
+    </string>
 
 </resources>

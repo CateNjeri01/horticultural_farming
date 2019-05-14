@@ -11,13 +11,14 @@ import android.view.ViewGroup;
 
 import tt.example.HorticulturalFarming.ApplesActivity;
 import tt.example.HorticulturalFarming.R;
+import tt.example.HorticulturalFarming.StrawBerryActivity;
 import tt.example.HorticulturalFarming.WaterMelonActivity;
 
 /**
  * A simple {@link Fragment} subclass.
  */
 public class FruitsFragment extends Fragment {
-CardView Apples,Watermelon;
+CardView Apples,Watermelon ,strawberry;
 
     public FruitsFragment() {
         // Required empty public constructor
@@ -32,6 +33,8 @@ CardView Apples,Watermelon;
 
       Apples = view.findViewById(R.id.Apples);
        Watermelon= view.findViewById(R.id.Watermelon);
+       strawberry= view.findViewById(R.id.strawberry);
+
         Apples.setOnClickListener(v -> {
             Intent intent = new Intent(getActivity(), ApplesActivity.class);
             getActivity().startActivity(intent);
@@ -39,6 +42,10 @@ CardView Apples,Watermelon;
 
         Watermelon.setOnClickListener(v -> {
             Intent intent = new Intent(getActivity(), WaterMelonActivity.class);
+            getActivity().startActivity(intent);
+        });
+        strawberry.setOnClickListener(v -> {
+            Intent intent = new Intent(getActivity(), StrawBerryActivity.class);
             getActivity().startActivity(intent);
         });
         return view;

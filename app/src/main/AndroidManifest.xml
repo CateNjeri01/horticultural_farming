@@ -15,7 +15,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".BlueBerryActivity"></activity>
+        <activity android:name=".GrapesActivity"></activity>
+        <activity android:name=".BlueBerryActivity" />
         <activity android:name=".StrawBerryActivity" />
         <activity
             android:name=".WaterMelonActivity"

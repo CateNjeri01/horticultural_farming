@@ -118,17 +118,17 @@ public class StrawBerryActivity extends AppCompatActivity {
             "Thin rows\n" +
             "If plants are grown in rows, renovation is a good time to thin widening rows back to their original width. This will improve airflow through the patch and reduce the time that the leaf surfaces are wet, which can reduce disease severity.\n" +
             "To have a good crop in the following year requires healthy thriving plants from post-renovation to dormancy in the fall. Pay attention to the health of your plants in this time period.\n";
-      String care = "Best practices for avoiding strawberry diseases and pests\n" +
+      String care = "BEST PRACTICES FOR AVOIDING STRAWBERRY DISEASES AND PESTS\n" +
               "These practices seek to produce the healthiest plants by avoiding situations that favor the development of diseases or contribute to insect infestations.\n" +
-              "Watering\n" +
+              "WATERING\n" +
               "When watering plants, avoid getting the leaf surfaces wet by using a drip system or a soaker hose. If a sprinkler system is used, water plants in the mornings on a sunny day to allow leaf surfaces to dry quickly, to reduce fungal diseases.\n" +
-              "Site rotation\n" +
+              "SITE ROTATION\n" +
               "If possible, rotate strawberries to different areas of the garden every 3 to 4 years. Land that has been planted in strawberries for 4 years or more can build up a population of root-rotting diseases. Move the patch to avoid this.\n" +
-              "Winter injury\n" +
+              "WINTER INJURY\n" +
               "Straw mulch reduces winter injury and plants that have less winter injury have reduced disease.\n" +
               "Straw mulch is equally important in the spring and summer as it reduces fruit and flower diseases by covering the soil and reducing spore movement carried by raindrop splash.\n" +
               "When removing straw in spring, leave 1/2 to 1\" of straw between rows to keep fruit off the soil and reduce weeds.\n" +
-              " Insects and other creatures\n" +
+              " INSECTS AND OTHER CREATURES\n" +
               "There are many different insect pests of strawberries. Some of these pests will be present every year, and some you will never see, depending on the history of your garden and surrounding landscape.\n" +
               "Most insect damage can be reduced by following the best practices mentioned above and:\n" +
               "•\tRemove leaf litter to reduce the number of insect overwintering sites.\n" +
@@ -143,7 +143,7 @@ public class StrawBerryActivity extends AppCompatActivity {
               "•\tFeeding by thrips causes berries to appear bronzed and seedy.\n" +
               "•\tSpotted wing drosophila is a particular problem of ever-bearing strawberries and other soft fruits in Kenya.\n" +
               "Rodents and birds may cause more trouble in home strawberry plantings than insects. Large holes in ripe fruit are a good sign that these creatures are enjoying your strawberries. Pick fruit as soon as it is ripe to prevent damage.\n";
-      String pest = "Diseases of strawberries\n" +
+      String pest = "DISEASES OF STRAWBERRIES\n" +
               "Strawberries are susceptible to fruit rots and leaf diseases. Fungi causing fruit rots infect the flowers and fruit as early as bloom time. Leaf diseases often have little effect on plant growth.\n" +
               "To keep fungi to a minimum:\n" +
               "•\tPlant in full sun. \n" +
@@ -163,7 +163,7 @@ public class StrawBerryActivity extends AppCompatActivity {
               "•\tFungicides are either not necessary or not available to home growers to control these diseases.\n" +
               "•\tCultural control practices usually reduce disease to a manageable level.\n" +
               "________________________________________\n" +
-              "Gray mold\n" +
+              "GRAY MOLD\n" +
               "Gray mold (Botrytis cinerea) is the most common fruit rot disease of strawberries in kenya. The disease is most prevalent when there is prolonged cool, wet weather during flowering.\n" +
               " \n" +
               "•\tThe gray mold fungus overwinters on dead strawberry leaves, infected straw, mummified fruit and weeds.\n" +
@@ -190,14 +190,15 @@ public class StrawBerryActivity extends AppCompatActivity {
               "•\tHarvest frequently and remove infected fruit from the field throughout the harvest season.\n" +
               "•\tTake care to keep diseased fruit separate from healthy fruit as gray mold can spread rapidly even after harvest.\n" +
               "•\tHandle berries with care and refrigerate soon after picking.\n" +
-              "Fungicides\n" +
+              "FUNGICIDES\n" +
               "Fungicides may be needed to protect fruit from gray mold fruit rot in years where rainy wet weather persists while plants are in bloom. In this case, fungicides should be applied during blossom to prevent fruit rot.\n" +
               "Read and follow all label instructions. If the season is one characterized by prolonged periods of wet or humid weather, continue spraying at the interval described on the fungicide label until petal drop.\n" +
               "If possible watch the weather and spray before rain is predicted. Fungicides with copper or Captan as active ingredients will reduce gray mold fruit rot in strawberry when applied properly. Fungicide sprays applied to green fruit and during fruit harvest do little to reduce disease and are not recommended.\n" +
-              "CAUTION: Mention of a pesticide or use of a pesticide label is for educational purposes only. Always follow the pesticide label directions attached to the pesticide container you are using. Remember, the label is the law.\n" +
+              "CAUTION: \n " +
+              "Mention of a pesticide or use of a pesticide label is for educational purposes only. Always follow the pesticide label directions attached to the pesticide container you are using. Remember, the label is the law.\n" +
               "Be sure that the plant you wish to treat is listed on the label of the pesticide you intend to use. Also be sure to observe the number of days between pesticide application and when you can harvest your crop.\n" +
               "________________________________________\n" +
-              "Leaf blight\n" +
+              "LEAF BLIGHT\n" +
               "•\tThe leaf blight fungus (Phomopsis obscurans) infects all green parts of the plant and rarely causes a soft rot on ripening and ripe fruit.\n" +
               "•\tLeaves are most severely infected in shaded patches that have heavy dew or in years with frequent rain. \n" +
               "•\tThis fungus requires long periods of continuous wetness to infect plants. \n" +
@@ -213,7 +214,7 @@ public class StrawBerryActivity extends AppCompatActivity {
               "•\tMushy pink spots on fruit become dark brown and dry.\n" +
               "________________________________________\n" +
               " \n" +
-              "Leaf scorch\n" +
+              "LEAF SCORCH\n" +
               "•\tIn addition to leaves, leaf scorch (Diplocarpon earlianum) can infect petioles, runners, fruit stalks and berry caps.\n" +
               "•\tIf unchecked, plants can be significantly weakened reducing the growth of all plant parts.\n" +
               "•\tSeverely infected plants are weakened and can die from other stresses such as drought or extreme temperatures.\n" +
@@ -248,7 +249,7 @@ public class StrawBerryActivity extends AppCompatActivity {
               "•\tThe disease will progress as long as temperature and moisture are in acceptable ranges.\n" +
               "•\tMany strawberries commonly grown in Kenya can tolerate some leaf spot infection.\n" +
               "•\tAlthough leaf spots may be observed on foliage, the damage is typically not severe enough to reduce yield.\n" +
-              "Symptoms\n" +
+              "SYMPTOMS\n" +
               "•\tSmall purple spots on leaves or stems.\n" +
               "•\tThe centers of leaf spots turn gray and then white with age.\n" +
               "•\tAs the disease progresses multiple leaf spots merge together creating a reddish purple area with multiple round white centers.\n" +
@@ -276,7 +277,7 @@ public class StrawBerryActivity extends AppCompatActivity {
               "•\tThe remaining young roots have random gray to reddish brown sunken blotches. These lesions can expand to cover large areas of the root.\n" +
               "•\tThe infected roots are soft and mushy. When touched, the outer layer often falls away, leaving only a thin strand from the core of the root.\n" +
               "Plants displaying the above symptoms should be carefully dug up and washed, keeping intact as much of the root system as possible. A healthy plant will have young roots that are creamy white with multiple fine root hairs and older roots will have a dark brown to black woody outside layer but a white interior.\n" +
-              "Management\n" +
+              "MANAGEMENT\n" +
               "Prevention of black root rot is based on good site selection and proper plant care.\n" +
               "•\tThere are no strawberry varieties that are resistant to black root rot.\n" +
               "•\tChoose a variety that is hardy in Kenya to reduce winter injury and stress on the plant.\n" +
@@ -304,7 +305,7 @@ public class StrawBerryActivity extends AppCompatActivity {
               "•\tInfection of ripe fruit may cause little to no color change, or the infected area may become pale, purple or brown.\n" +
               "•\tRot on ripe fruit becomes dry and leathery over time.\n" +
               "•\tBoth ripe and unripe infected fruit eventually dry down into fruit mummies.\n" +
-              "Management\n" +
+              "MANAGEMENT\n" +
               "•\tChoose a location with good drainage or improve drainage before planting through adding organic matter to soil and redirecting water away from the area. Strawberries can also be planted on raised beds to improve drainage.\n" +
               "•\tUse straw mulch to keep berries from contacting soil and any puddled water. Mulch will also reduce splashing of spores from the soil up onto fruit and flowers.\n" +
               "•\tWater through drip irrigation or a soaker hose. If overhead sprinkling is your only option, water early in the morning on a sunny day so leaves dry quickly after irrigation.\n" +
@@ -346,7 +347,7 @@ String manage= "MANAGEMENT\n" +
         "•\tFollowing renovation, rake and remove old leaves.\n" +
         "\n" +
         "\n" +
-        "Fungicides\n" +
+        "FUNGICIDES\n" +
         "Fungicide sprays may be necessary to protect plants after summer renovation if powdery mildew has been identified in the patch before renovation. Several fungicides are available to control powdery mildew. \n" +
         "Choose products with an active ingredient of myclobutanil, sulfur, potassium bicarbonate, or horticultural oil. Apply products according to the label instructions. Repeated applications will be necessary as long as conditions favorable for disease continue.\n " +
         "Do not use sulfur on fruit intended for canning.\n";
@@ -366,7 +367,7 @@ String manage= "MANAGEMENT\n" +
         expandableTextView.setText(strawPlanting);
         e.setText(Fertilizer);
         diseases.setText(care);
-        pests.setText(care);
+        pests.setText(pest);
         management.setText(manage);
     }
 }

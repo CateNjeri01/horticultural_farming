@@ -10,6 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import tt.example.HorticulturalFarming.ApplesActivity;
+import tt.example.HorticulturalFarming.BlueBerryActivity;
+import tt.example.HorticulturalFarming.GrapesActivity;
 import tt.example.HorticulturalFarming.R;
 import tt.example.HorticulturalFarming.StrawBerryActivity;
 import tt.example.HorticulturalFarming.WaterMelonActivity;
@@ -18,7 +20,7 @@ import tt.example.HorticulturalFarming.WaterMelonActivity;
  * A simple {@link Fragment} subclass.
  */
 public class FruitsFragment extends Fragment {
-CardView Apples,Watermelon ,strawberry;
+CardView Apples,Watermelon ,strawberry,grapes,pineaple,blueberry;
 
     public FruitsFragment() {
         // Required empty public constructor
@@ -34,6 +36,9 @@ CardView Apples,Watermelon ,strawberry;
       Apples = view.findViewById(R.id.Apples);
        Watermelon= view.findViewById(R.id.Watermelon);
        strawberry= view.findViewById(R.id.strawberry);
+       grapes= view.findViewById(R.id.grapes);
+       pineaple= view.findViewById(R.id.pineapple);
+       blueberry= view.findViewById(R.id.blueberry);
 
         Apples.setOnClickListener(v -> {
             Intent intent = new Intent(getActivity(), ApplesActivity.class);
@@ -45,6 +50,20 @@ CardView Apples,Watermelon ,strawberry;
             getActivity().startActivity(intent);
         });
         strawberry.setOnClickListener(v -> {
+            Intent intent = new Intent(getActivity(), StrawBerryActivity.class);
+            getActivity().startActivity(intent);
+        });
+
+        grapes.setOnClickListener(v -> {
+            Intent intent = new Intent(getActivity(), GrapesActivity.class);
+            getActivity().startActivity(intent);
+        });
+
+        blueberry.setOnClickListener(v -> {
+            Intent intent = new Intent(getActivity(), BlueBerryActivity.class);
+            getActivity().startActivity(intent);
+        });
+        pineaple.setOnClickListener(v -> {
             Intent intent = new Intent(getActivity(), StrawBerryActivity.class);
             getActivity().startActivity(intent);
         });

@@ -107,7 +107,7 @@
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
-            android:id="@+id/forumCard"
+            android:id="@+id/blueberry"
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
@@ -150,7 +150,7 @@
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
-            android:id="@+id/contactCard"
+            android:id="@+id/grapes"
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
@@ -193,7 +193,7 @@
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView
-            android:id="@+id/AnalysisCard"
+            android:id="@+id/pineapple"
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_rowWeight="1"

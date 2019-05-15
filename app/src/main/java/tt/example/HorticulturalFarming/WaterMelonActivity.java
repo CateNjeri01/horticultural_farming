@@ -43,7 +43,7 @@ String caring = "CARE AND MAINTENANCE\n" +
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);
-        diseases.setText(Fertilizer);
+        diseases.setText(disease);
         care.setText(caring);
 
     }

@@ -91,10 +91,10 @@ public class BrocolliActivity extends AppCompatActivity {
         setContentView(R.layout.activity_brocolli);
 
 
-        expandableTextView = findViewById(R.id.expand_text_view);
+        expandableTextView = findViewById(R.id.expand_text_view2);
         e = findViewById(R.id.expand_text_view1);
-        diseases = findViewById(R.id.expand_text_view4);
-        care = findViewById(R.id.expand_text_view5);
+        diseases = findViewById(R.id.expand_text_view3);
+        care = findViewById(R.id.expand_text_view4);
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);

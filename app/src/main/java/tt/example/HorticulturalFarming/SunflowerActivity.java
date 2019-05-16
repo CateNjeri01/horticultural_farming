@@ -61,11 +61,11 @@ public class SunflowerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sunflower);
 
-        expandableTextView = findViewById(R.id.expand_text_view);
+        expandableTextView = findViewById(R.id.expand_text_view2);
         e = findViewById(R.id.expand_text_view1);
-        diseases = findViewById(R.id.expand_text_view4);
-        care = findViewById(R.id.expand_text_view5);
-        storages = findViewById(R.id.expand_text_view6);
+        diseases = findViewById(R.id.expand_text_view3);
+        care = findViewById(R.id.expand_text_view4);
+        storages = findViewById(R.id.expand_text_view5);
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);

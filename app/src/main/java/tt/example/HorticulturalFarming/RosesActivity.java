@@ -9,7 +9,6 @@ public class RosesActivity extends AppCompatActivity {
     ExpandableTextView expandableTextView ,e , diseases,care,storages;
 
     String Planting = "SELECTING AND PREPARING SITE\n" +
-            "\n" +
             "    Plant roses where they will receive a minimum of 5 to 6 hours of full sun per day. Morning sun is especially important because it dries the leaves, which helps prevent diseases. Roses grown in partial sun may not die at once, but they weaken gradually, producing subpar blooms and overwintering poorly.\n" +
             "    Remember that light changes as the angle of the sun shifts throughout the season. If you live in the upper half of the U.S., choose a site that will offer full sun year-round. The more sun you have, the more flowers your plants will produce. In the lower half of the U.S., choose spots with a little bit of afternoon shade. This protects blossoms from the scorching sun and helps your flowers last longer.\n" +
             "    If you live in a colder climate, consider growing roses close to the foundation of your home. This provides plants with some degree of winter protection. Walkways are also good spots provided there is full sun.\n" +
@@ -19,7 +18,6 @@ public class RosesActivity extends AppCompatActivity {
             "    Roses prefer a near-neutral pH range of 5.5–7.0. A pH of 6.5 is just about right for most home gardens (slightly acidic to neutral).\n" +
             "        An accurate soil test will tell you where your pH currently stands. Acidic (sour) soil is counteracted by applying finely ground limestone, and alkaline (sweet) soil is treated with ground sulfur";
     String Fertilizer = "PLANTING ROSES\n" +
-            "\n" +
             "    Wear sturdy gloves to protect your hands from prickly thorns. Have a hose or bucket of water and all your planting tools nearby. \n" +
             "    Soak bare-root roses in a bucket of water for 8-12 hours before planting.\n" +
             "    Prune each cane back to 3-5 buds per cane. Any cane thinner than a pencil should be removed.\n" +
@@ -93,11 +91,11 @@ public class RosesActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_roses);
 
-        expandableTextView = findViewById(R.id.expand_text_view);
+        expandableTextView = findViewById(R.id.expand_text_view2);
         e = findViewById(R.id.expand_text_view1);
-        diseases = findViewById(R.id.expand_text_view4);
-        care = findViewById(R.id.expand_text_view5);
-        storages = findViewById(R.id.expand_text_view6);
+        diseases = findViewById(R.id.expand_text_view3);
+        care = findViewById(R.id.expand_text_view4);
+        storages = findViewById(R.id.expand_text_view5);
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);

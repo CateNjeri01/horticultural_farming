@@ -16,13 +16,11 @@ public class CucumberActivity extends AppCompatActivity {
             "•\tImprove your soil by adding well-rotted manure or compost in spring or fall. Do not use fresh manure as it may contain harmful bacteria and may increase weed problems.\n" +
             "•\tDo not use “Weed and Feed” type fertilizers on vegetables. They contain weed killers that will kill vegetable plants.\n" +
             "SELECTING PLANTS\n" +
-            "\n" +
             " Male and female plants\n" +
             "Cucumber plants have separate male and female flowers on the same plant. Male flowers usually appear first, each attached to the plant by a slender pedicel, or stem. Female flowers grow close to the main vine. Between the flower and the vine is a small round ovary, the unfertilized fruit.\n" +
             "An insect must move the pollen from the male flowers to the female flowers. Bees are common cucumber pollinators. Some newer varieties of cucumber will set fruit that develops normally, even if there is no pollination of the female flowers. These fruits will be seedless or nearly so.\n" +
             "Other varieties have only female flowers, each of which can produce a fruit. These varieties can have high yields. You must grow the all-female varieties with another cucumber variety having traditional flowering habit to provide pollen.\n" +
             "PLANTING\n" +
-            "\n" +
             " Starting seeds\n" +
             "The best way to start cucumbers is direct seeding. Use a soil thermometer and sow seeds after the last frost date, once the soil is at least 70° F at the one-inch depth.\n" +
             "Earlier planting is possible with the use of black plastic mulch, which raises soil temperature. Apply black plastic mulch to the soil once you prepare it in the spring. Cut holes or slits in the mulch, and plant the seeds.\n" +
@@ -37,7 +35,6 @@ public class CucumberActivity extends AppCompatActivity {
             "•\tStart the seeds in peat pots that you can plant directly into the soil.\n" +
             "•\tBefore the plant begins to outgrow its container, transplant it carefully. Do not damage the cucumber’s taproot.\n";
     String Fertilizer = "HOW TO KEEP YOUR CUCUMBER PLANTS HEALTHY AND PRODUCTIVE\n" +
-            "\n" +
             " WATERING\n" +
             "•\tLong taproots and branching surface roots help cucumber plants reach soil moisture even in dry weather.\n" +
             "•\tVine crops are heavy water feeders, so you should constantly check soil moisture.\n" +
@@ -86,10 +83,10 @@ public class CucumberActivity extends AppCompatActivity {
         setContentView(R.layout.activity_cucumber);
 
 
-        expandableTextView = findViewById(R.id.expand_text_view);
+        expandableTextView = findViewById(R.id.expand_text_view2);
         e = findViewById(R.id.expand_text_view1);
-        diseases = findViewById(R.id.expand_text_view4);
-        care = findViewById(R.id.expand_text_view5);
+        diseases = findViewById(R.id.expand_text_view3);
+        care = findViewById(R.id.expand_text_view4);
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);

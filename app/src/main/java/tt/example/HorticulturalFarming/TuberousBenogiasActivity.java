@@ -30,7 +30,6 @@ public class TuberousBenogiasActivity extends AppCompatActivity {
             "Once the weather has settled, the soil is warm, and all danger of frost is past (usually by late May or early June in Kenya), transplant them to hanging baskets on the porch or out in the garden, or move containers to their permanent place on the deck or patio.\n";
     String disease = "DISEASES AND OTHER PROBLEMS" +
             "Leaf Diseases\n" +
-            "\n" +
             "A variety of diseases affect tuberous begonia leaves. Powdery mildew, which occurs in crowded or shady conditions, causes white powdery spots on both sides of the leaves and greasy spots on their undersides. Space plants 12 inches apart to prevent crowding and improve air circulation to control powdery mildew. Another ailment, bacterial leaf spot, is a fatal disease that causes water-soaked spots with yellow margins on leaves. It occurs on wet leaves in humid conditions. Avoid overhead watering, remove and destroy infected leaves, and do not propagate tuberous begonias from diseased leaves.\n" +
             "\n" +
             "Root and Stem Rot\n" +
@@ -44,7 +43,8 @@ public class TuberousBenogiasActivity extends AppCompatActivity {
             "Other Problems\n" +
             "\n" +
             "Although tuberous begonias need bright filtered sun to produce flowers, intense sunlight can burn the plants. Too much water or fertilizer can cause flower drop. Bedding plants usually need water only once every week, but container plants may need water more often to keep the soil moist but not soaked. Tuberous begonias prefer diluted liquid fertilizer every two weeks. Most varieties do not tolerate frost and will die in sub-freezing temperatures. If you dig up the tubers before the first frost in the fall, you can store them in peat moss at 45 to 55 degrees Fahrenheit and replant them after the last expected frost date.";
-    String caring = "Tuberous Begonia Care Water the plants regularly to keep the potting soil slightly moist.\n " +
+    String caring = "TAKING CARE OF TUBEROUS BEGONIAS \n" +
+            "Tuberous Begonia Care Water the plants regularly to keep the potting soil slightly moist.\n " +
             "Provide a balanced, water-soluble fertilizer monthly during the growing season. Be sure to provide plenty of air circulation to prevent powdery mildew. Use a sharp knife to cut spent blooms as soon as they fade. Cut back on water in late summer, then dig the tubers when the foliage begins to turn yellow. Place each tuber in a small paper bag and store the bags in a cardboard box. Room temperatures for storage should be between 40 and 50 degrees F. (4-10 C.). Check the tubers occasionally and discard any that are soft or rotten. Replant the tuberous begonias in spring.\n" +
             "\n" +
           "";
@@ -87,11 +87,11 @@ public class TuberousBenogiasActivity extends AppCompatActivity {
         setContentView(R.layout.activity_tuberous_benogias);
 
 
-        expandableTextView = findViewById(R.id.expand_text_view);
+        expandableTextView = findViewById(R.id.expand_text_view2);
         e = findViewById(R.id.expand_text_view1);
-        diseases = findViewById(R.id.expand_text_view4);
-        care = findViewById(R.id.expand_text_view5);
-        storages = findViewById(R.id.expand_text_view6);
+        diseases = findViewById(R.id.expand_text_view3);
+        care = findViewById(R.id.expand_text_view4);
+        storages = findViewById(R.id.expand_text_view5);
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);

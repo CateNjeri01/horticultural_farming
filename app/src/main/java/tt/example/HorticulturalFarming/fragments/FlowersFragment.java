@@ -32,6 +32,7 @@ public class FlowersFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_flowers, container, false);
+
         roses = view.findViewById(R.id.roses);
         carnation = view.findViewById(R.id.carnation);
         sunflower = view.findViewById(R.id.sunflower);

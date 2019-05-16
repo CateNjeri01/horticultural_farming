@@ -18,7 +18,7 @@
         <LinearLayout
             android:id="@+id/linearLayout3"
             android:layout_width="match_parent"
-            android:layout_height="256dp"
+            android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
@@ -102,10 +102,7 @@
                     android:padding="16dp" />
             </com.ms.square.android.expandabletextview.ExpandableTextView>
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:src="@mipmap/blueberriescloseup" />
+
 
             <com.ms.square.android.expandabletextview.ExpandableTextView
                 xmlns:android="http://schemas.android.com/apk/res/android"
@@ -137,21 +134,7 @@
                     android:contentDescription="@string/app_name"
                     android:padding="16dp" />
             </com.ms.square.android.expandabletextview.ExpandableTextView>
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal">
 
-                <ImageView
-                    android:layout_width="196dp"
-                    android:layout_height="wrap_content"
-                    android:src="@mipmap/floweringberry" />
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:src="@mipmap/careforberry"/>
-            </LinearLayout>
 
             <com.ms.square.android.expandabletextview.ExpandableTextView
                 xmlns:android="http://schemas.android.com/apk/res/android"
@@ -183,21 +166,7 @@
                     android:contentDescription="@string/app_name"
                     android:padding="16dp" />
             </com.ms.square.android.expandabletextview.ExpandableTextView>
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal">
 
-                <ImageView
-                    android:layout_width="196dp"
-                    android:layout_height="wrap_content"
-                    android:src="@mipmap/powderyforberry" />
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:src="@mipmap/dryberry"/>
-            </LinearLayout>
             <com.ms.square.android.expandabletextview.ExpandableTextView
                 xmlns:android="http://schemas.android.com/apk/res/android"
                 xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"

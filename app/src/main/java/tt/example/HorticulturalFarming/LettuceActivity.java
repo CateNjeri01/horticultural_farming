@@ -42,8 +42,6 @@ public class LettuceActivity extends AppCompatActivity {
             "•\tItalian dandelion is another form of radicchio, a bitter green for salads or cooking. It is easy to grow. \n" +
             "o\tDirect seed Italian dandelion in spring, summer or fall. \n";
     String Fertilizer = "PLANTING\n" +
-            " Starting seed indoors\n" +
-            " \n" +
             "Lettuce seedlings\n" +
             "Lettuce and chicory seed are very small and difficult to see.\n" +
             "Starting seeds indoors gives you the chance to handle the seed in controlled conditions while it is still cold outside, as well as during the heat of the summer.\n" +
@@ -133,11 +131,11 @@ public class LettuceActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lettuce);
 
-        expandableTextView = findViewById(R.id.expand_text_view);
+        expandableTextView = findViewById(R.id.expand_text_view2);
         e = findViewById(R.id.expand_text_view1);
-        diseases = findViewById(R.id.expand_text_view4);
-        care = findViewById(R.id.expand_text_view5);
-        storages = findViewById(R.id.expand_text_view6);
+        diseases = findViewById(R.id.expand_text_view3);
+        care = findViewById(R.id.expand_text_view4);
+        storages = findViewById(R.id.expand_text_view5);
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);

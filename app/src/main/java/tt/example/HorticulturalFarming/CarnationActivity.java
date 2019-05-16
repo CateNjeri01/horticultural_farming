@@ -8,8 +8,7 @@ import com.ms.square.android.expandabletextview.ExpandableTextView;
 public class CarnationActivity extends AppCompatActivity {
     ExpandableTextView expandableTextView ,e , diseases,care,storages;
 
-    String Planting = "Planting and taking care of the carnations\n" +
-            "\n" +
+    String Planting = "PLANTING AND TALKING CARE OF THE CARNATIONS\n" +
             "The carnations are very popular flowers, both commercially and ornamentally.\n" +
             "\n" +
             "The carnations could be well used as sideways decorative plants, in rock/pebble decorated gardens and even in flower pots. The carnations grow in a large variety of colors, such as, red, brick-red, orange, violet, yellow, pink, white, cream-colored.\n" +
@@ -62,7 +61,6 @@ public class CarnationActivity extends AppCompatActivity {
             "    Store the growing seeds in an area between 41 to 59 degrees F that will receive full sun in the daytime.\n" +
             "    Expect germination in about 2 to 3 weeks.\n";
     String Fertilizer = "CARNATION PRUNING\n" +
-            "\n" +
             "Prune carnations to promote the overall health of the plant. You'll need to prune carnations twice a year, once in the summer to remove spent flowers, and once at the end of the growing season, cutting the plant almost down to the ground or the \"basal growth\" area. Always work with sterilized clippers to ensure you don't spread disease around your garden.\n" +
             "Summer Pruning\n" +
             "\n" +
@@ -73,8 +71,7 @@ public class CarnationActivity extends AppCompatActivity {
             "Periodically inspect the plant and deadhead spent blooms by hand. Deadheading will allow the plant to force more energy into other blooming buds and will keep the cycle of new blooms continuous.\n" +
             "\n" +
             "Keep your carnation plant trim and tidy by pruning back leggy plants. Blooms spaced closer together may actually give your plant a larger look and make it appear that you have more blooms.\n";
-    String disease = "Main diseases \n" +
-            "\n" +
+    String disease = "MAIN DISEASES \n" +
             "Fairy-ring Leaf Spot is produced by the Mycosphaerella dianthi fungus. The disease is visible on all the plant’s organs, where round or oval spots, yellow to brown in color, with a red or violet margin, grow. On the surface of the spots a brown to black, dusty looking mold grows, which represents the fungus’ sporulation. The affected flowers no longer open or they grow irregularly.\n" +
             "\n" +
             "Prevention and control measures:\n" +
@@ -131,15 +128,13 @@ public class CarnationActivity extends AppCompatActivity {
             "Acari, for which the following pesticides are recommended: Envidor 240 SC (5 ml/ 10 l water), Nissorun (5 g/ 10 l water), Milbeknock (7.5 ml/ 10 l water).\n" +
             "\n" +
             "Thrips, for which the following pesticides are recommended: Confidor Energy (25 ml/ 10 l water), Novadim Progress (20 ml/ 10 l water).";
-    String caring = "Propagating Carnations\n" +
-            "\n" +
+    String caring = "PROPAGATING CARNATIONS\n" +
             "Carnations can be propagated by three ways:\n" +
             "\n" +
             "    By seeds: Seeds can be sowed, 1/8 inch deep in a well-drained mix.Space seeds 12\" apart. Make sure the compost is moist but not wet. Firm soil over seed and mist spray occasionally and keep it moist. The seeds will germinate in 2 to 3 weeks.\n" +
             "    By cuttings: Cuttings taken from the terminal growth can also be used to propagate Carnations. The cuttings, varying from four to six inches long are taken and the basal leaves of at least two to three nodes are removed. The cuttings are then inserted in pure sand. The lower leaves must not touch the surface. Cuttings become ready for transplantation in 25 to 30 days.This method is preferably used in case of perennial Carnations.\n" +
             "    By division: Carnations can also be grown by division through which we can rejuvenate older plants. Dig up an entire clump, and either pull it apart using your hands to separate the plant segments, or use two gardening forks inserted in the center of the clump, to gently pry the plant apart. Replant each new division as you would a new perennial or annual, and water it in very well.\n";
-    String storage = "Factors Influencing Growth of Carnations\n" +
-            "\n" +
+    String storage = "FACTORS INFLUENCING GROWTH OF CARNATION\n" +
             "Some of the main factors affecting the growth of Carnations are listed below:\n" +
             "\n" +
             "    Sunlight: Carnations need full sunlight, about 4-5 hours everyday.\n" +
@@ -153,11 +148,11 @@ public class CarnationActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_carnation);
 
-        expandableTextView = findViewById(R.id.expand_text_view);
+        expandableTextView = findViewById(R.id.expand_text_view2);
         e = findViewById(R.id.expand_text_view1);
-        diseases = findViewById(R.id.expand_text_view4);
-        care = findViewById(R.id.expand_text_view5);
-        storages = findViewById(R.id.expand_text_view6);
+        diseases = findViewById(R.id.expand_text_view3);
+        care = findViewById(R.id.expand_text_view4);
+        storages = findViewById(R.id.expand_text_view5);
 
         expandableTextView.setText(Planting);
         e.setText(Fertilizer);

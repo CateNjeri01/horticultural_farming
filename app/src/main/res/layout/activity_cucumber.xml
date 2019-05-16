@@ -9,7 +9,7 @@
     android:paddingLeft="8dp"
     android:paddingRight="8dp"
     android:orientation="vertical"
-    tools:context=".GrapesActivity">
+    tools:context=".CucumberActivity">
     <LinearLayout
         android:layout_width="match_parent"
         android:orientation="vertical"
@@ -18,7 +18,7 @@
         <LinearLayout
             android:id="@+id/linearLayout3"
             android:layout_width="match_parent"
-            android:layout_height="256dp"
+            android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
@@ -27,13 +27,13 @@
                 android:id="@+id/textView"
                 android:layout_width="208dp"
                 android:layout_height="wrap_content"
-                android:text="@string/facts_about_grapes"
+                android:text="@string/facts_about_cucumber"
                 android:textStyle="bold" />
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:src="@mipmap/grapes" />
+                android:src="@mipmap/cucumber" />
         </LinearLayout>
 
         <LinearLayout
@@ -102,10 +102,7 @@
                     android:padding="16dp" />
             </com.ms.square.android.expandabletextview.ExpandableTextView>
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:src="@mipmap/grape" />
+
 
             <com.ms.square.android.expandabletextview.ExpandableTextView
                 xmlns:android="http://schemas.android.com/apk/res/android"
@@ -169,21 +166,7 @@
                     android:contentDescription="@string/app_name"
                     android:padding="16dp" />
             </com.ms.square.android.expandabletextview.ExpandableTextView>
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal">
 
-                <ImageView
-                    android:layout_width="196dp"
-                    android:layout_height="196dp"
-                    android:src="@mipmap/leavedisease" />
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="196dp"
-                    android:src="@mipmap/disgrapes"/>
-            </LinearLayout>
             <com.ms.square.android.expandabletextview.ExpandableTextView
                 xmlns:android="http://schemas.android.com/apk/res/android"
                 xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"

@@ -15,7 +15,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".OnionsActivity"></activity>
+        <activity android:name=".CarrotsActivity"></activity>
+        <activity android:name=".OnionsActivity" />
         <activity android:name=".CucumberActivity" />
         <activity android:name=".BrocolliActivity" />
         <activity android:name=".GrapesActivity" />

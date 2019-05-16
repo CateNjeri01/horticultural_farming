@@ -9,7 +9,7 @@
     android:paddingLeft="8dp"
     android:paddingRight="8dp"
     android:orientation="vertical"
-    tools:context=".SunflowerActivity">
+    tools:context=".TuberousBenogiasActivity">
     <LinearLayout
         android:layout_width="match_parent"
         android:orientation="vertical"

@@ -312,7 +312,7 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
         •	Always plant seeds directly into your garden. Never start them in pots.\n
         •	The seeds can take up to three weeks to germinate.\n
         •	Thin out seedlings to allow room for the roots to develop.\n
-        •	These vegetables may be bitter, tough, misshapen and undersized if they don't get enough water.\n
+        •	These vegetables may be bitter, tough, misshapen and undersized if they do not get enough water.\n
         •	You can harvest carrots any time they reach a usable size.\n
         •	Leave parsnips in the ground until late fall, or even early spring.
     </string>
@@ -343,5 +343,42 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
         * Plant the tuber so it has a light covering of soil. Place a stake in each pot at planting time. Taller tuberous begonias need light staking to protect them from wind.\n
        *  Use tuberous begonias to brighten shady spots in your yard.
 </string>
+    <string name="facts_about_roses">FACTS ABOUT ROSES \n
+       * Site. Roses crave sun, at least six hours a day is ideal.\n
+       * Soil. Plant roses in rich, well-draining soil. When planting, mix organic matter, such as compost or ground bark, into excavated soil you will use to backfill the planting hole.\n
+       * Mulch. Add a 2-3-inch layer of coarse, organic mulch around roses. Coarse mulch helps reduce foliage diseases on roses because it reduces the amount of water splashing onto leaves (splashing water drops can spread fungal diseases).\n
+        * Water. Irrigate roses deeply but infrequently, applying water directly to soil using soaker hoses or drip irrigation.
+        Water needs vary based on weather and soil, so check soil with your finger. Water often enough to create consistently moist soil – not overly wet, not bone-dry.
+        To prevent diseases, keep foliage dry, especially if you must water late in the day.\n
+        *Inspect. Check roses frequently for insects or disease outbreaks. Catching problems early makes them easier to treat.
+    </string>
+    <string name="carnation">Carnation</string>
+    <string name="carrots">Carrots</string>
+    <string name="cabbage">Cabbage</string>
+    <string name="facts_about_carnation">FACTS ABOUT CARNATION\n
+
+    * Sunlight: Carnations need full sunlight, about 4-5 hours everyday.\n
+    * Soil: Carnations thrive in fertile, well- drained, slightly alkaline (pH 6.75) soil.\n
+    * Water: Carnations do not require much water, except in the hot months. You must spray water on the plants instead of splashing.\n
+    * Temperatures and Lighting: The optimum temperature for growing Carnations range from 50 - 59Â°F at daytime and 41- 46Â°F at night.\n
+        * Manure: Peat is an excellent organic matter that can be added when growing Carnations. \n
+    * Mulching: Mulching should not be done when growing Carnations. Sufficient air circulation around the stems is very necessary for growth.
+
+    </string>
+    <string name="facts_about_pineapples">FACTS ABOUT PINEAPPLES\n
+•	Pineapples do not need much water. \n
+•	Pineapples do not need much soil or high quality soil.\n
+•	Pineapples get a lot of their water and nutrition through their leaves.\n
+•	Pineapples like slightly acidic soils, which is what most gardens have anyway.\n
+•	Pineapples grow in full sun, even in the hottest climates, but they also do well in dappled shade.\n
+•	Pineapples grow very happily in pots or tubs.\n
+
+        What pineapples do not like is\n
+•	soggy, waterlogged soils,\n
+•	having their leaves burned with concentrated fertilisers,\n
+•	frost.
+
+
+    </string>
 
 </resources>

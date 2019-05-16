@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import tt.example.HorticulturalFarming.ApplesActivity;
 import tt.example.HorticulturalFarming.BlueBerryActivity;
 import tt.example.HorticulturalFarming.GrapesActivity;
+import tt.example.HorticulturalFarming.PineappleActivity;
 import tt.example.HorticulturalFarming.R;
 import tt.example.HorticulturalFarming.StrawBerryActivity;
 import tt.example.HorticulturalFarming.WaterMelonActivity;
@@ -64,7 +65,7 @@ CardView Apples,Watermelon ,strawberry,grapes,pineaple,blueberry;
             getActivity().startActivity(intent);
         });
         pineaple.setOnClickListener(v -> {
-            Intent intent = new Intent(getActivity(), StrawBerryActivity.class);
+            Intent intent = new Intent(getActivity(), PineappleActivity.class);
             getActivity().startActivity(intent);
         });
         return view;

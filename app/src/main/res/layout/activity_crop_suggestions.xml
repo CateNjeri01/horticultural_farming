@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CropSuggestionsActivity">
+
+    <RelativeLayout
+        android:id="@+id/recRL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <EditText
+            android:id="@+id/tempET"
+            android:layout_width="@dimen/dimen_256dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/tfbg"
+            android:hint="Temperature..."
+            android:padding="8dp"
+            android:paddingStart="16dp" />
+
+        <EditText
+            android:id="@+id/rainET"
+            android:layout_width="@dimen/dimen_256dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tempET"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/tfbg"
+            android:hint="Rainfall Amount..."
+            android:padding="8dp"
+            android:paddingStart="16dp" />
+
+        <Button
+            android:id="@+id/filterCropsBtn"
+            android:layout_width="@dimen/dimen_256dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rainET"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:text="Filter Crops"
+            android:textAllCaps="false" />
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recRV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        tools:listitem="@layout/single_rec_view" />
+
+</android.support.constraint.ConstraintLayout>

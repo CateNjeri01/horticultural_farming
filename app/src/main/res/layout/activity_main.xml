@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@mipmap/background"
     tools:context=".MainActivity">
-    
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="360dp"
@@ -21,16 +21,28 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@mipmap/logo" />
 
+    <TextView
+        android:id="@+id/addRecTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:textColor="@android:color/white"
+        android:gravity="center_horizontal"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:text="Add Recommendation"
+        app:layout_constraintTop_toBottomOf="@id/imageView" />
+
     <GridLayout
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginBottom="8dp"
+        android:visibility="visible"
         android:columnCount="2"
         android:rowCount="3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView">
+        app:layout_constraintTop_toBottomOf="@+id/addRecTV">
 
         <android.support.v7.widget.CardView
             android:id="@+id/cropsCard"

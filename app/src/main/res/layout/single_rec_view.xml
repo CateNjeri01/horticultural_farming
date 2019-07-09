@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="4dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginEnd="4dp">
+
+    <ImageView
+        android:id="@+id/cropImage"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:background="@android:color/black"
+        android:contentDescription="Crop Image" />
+
+    <TextView
+        android:id="@+id/cropName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="8dp"
+        android:layout_toRightOf="@id/cropImage"
+        android:padding="8dp"
+        android:text="Crop Name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black" />
+
+</RelativeLayout>
